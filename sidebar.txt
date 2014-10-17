@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sgy:home|Door43 (sgy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sgy|d43-sgy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sgy/archive/master.zip|d43-sgy.zip]]
+
+**Recent Changes**
+{{changes>ns = sgy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sgy|Ethnologue data]]
+
